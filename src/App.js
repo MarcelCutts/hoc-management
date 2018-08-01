@@ -1,8 +1,7 @@
 import React, { Component } from "react";
-import "./App.css";
-import RecomposeHOC from "./recompose";
-import Powerplug from "./powerplug";
-import PowerplugAdopt from "./powerplugadopt";
+import RecomposeHOC from "./Recompose";
+import Powerplug from "./Powerplug";
+import PowerplugAdopt from "./PowerplugAdopt";
 
 class App extends Component {
   render() {
